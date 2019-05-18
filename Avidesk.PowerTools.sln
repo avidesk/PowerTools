@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avidesk.PowerTools.String", "Avidesk.PowerTools.String\Avidesk.PowerTools.String.csproj", "{BF4C9CEC-9C79-4450-9794-1854BE40B6D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avidesk.PowerTools.Math", "Avidesk.PowerTools.Math\Avidesk.PowerTools.Math.csproj", "{5F156878-11A0-4FF7-A78F-00F258A17220}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avidesk.PowerTools.Object", "Avidesk.PowerTools.Object\Avidesk.PowerTools.Object.csproj", "{325BF6B9-682D-4D5B-81D4-9BD012435AF9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avidesk.PowerTools.Mapping", "Avidesk.PowerTools.Mapping\Avidesk.PowerTools.Mapping.csproj", "{B745C6AE-DF4D-485B-B72F-227E1D1D142F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avidesk.PowerTools.Serialization", "Avidesk.PowerTools.Serialization\Avidesk.PowerTools.Serialization.csproj", "{FC35F56A-4903-43FF-81C4-4C35E7602863}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avidesk.PowerTools.FileSystem", "Avidesk.PowerTools.FileSystem\Avidesk.PowerTools.FileSystem.csproj", "{1C873D44-83A5-4F06-8D17-931CBBB5392C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF4C9CEC-9C79-4450-9794-1854BE40B6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4C9CEC-9C79-4450-9794-1854BE40B6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4C9CEC-9C79-4450-9794-1854BE40B6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4C9CEC-9C79-4450-9794-1854BE40B6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F156878-11A0-4FF7-A78F-00F258A17220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F156878-11A0-4FF7-A78F-00F258A17220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F156878-11A0-4FF7-A78F-00F258A17220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F156878-11A0-4FF7-A78F-00F258A17220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325BF6B9-682D-4D5B-81D4-9BD012435AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325BF6B9-682D-4D5B-81D4-9BD012435AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325BF6B9-682D-4D5B-81D4-9BD012435AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325BF6B9-682D-4D5B-81D4-9BD012435AF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B745C6AE-DF4D-485B-B72F-227E1D1D142F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B745C6AE-DF4D-485B-B72F-227E1D1D142F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B745C6AE-DF4D-485B-B72F-227E1D1D142F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B745C6AE-DF4D-485B-B72F-227E1D1D142F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC35F56A-4903-43FF-81C4-4C35E7602863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC35F56A-4903-43FF-81C4-4C35E7602863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC35F56A-4903-43FF-81C4-4C35E7602863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC35F56A-4903-43FF-81C4-4C35E7602863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C873D44-83A5-4F06-8D17-931CBBB5392C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C873D44-83A5-4F06-8D17-931CBBB5392C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C873D44-83A5-4F06-8D17-931CBBB5392C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C873D44-83A5-4F06-8D17-931CBBB5392C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61755DE5-BEA9-4000-A9D9-BDD4DA8AEA2D}
+	EndGlobalSection
+EndGlobal
